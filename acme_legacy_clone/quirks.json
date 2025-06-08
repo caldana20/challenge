@@ -1,0 +1,6 @@
+{
+  "cents_bonus": 0.5,
+  "five_day_bonus": 37.42,
+  "hi_spend_threshold_per_day": 100,
+  "long_trip_penalty_multiplier": 0.9
+}
